@@ -48,6 +48,7 @@ docker pull mariadb:10.6.2
 docker build --no-cache -t verademo .
 ```
 
+
 To run the container for local development run this:
 
 ```
